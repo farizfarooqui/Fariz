@@ -21,46 +21,14 @@ DHA SUFFA University, Karachi, Pakistan
 
 ---
 
-## 💼 Work Experience
+## 🛠️ Tools & Technologies
 
-### **Flutter Developer (Intern)**
-**Plural Dynamics - Karachi, Pakistan**  
-*11/2023 – Present (Extended)*
-
-- Customized UI of multiple applications to enhance user experience.
-- Integrated over 15 API endpoints for data fetching and user authentication.
-- Employed MVVM design pattern to ensure clean architecture.
-- Managed efficient state management using GetX.
-
-### **Core Team Member of HeyFlutter Club**
-**Developer Student Club - DHA SUFFA University, Karachi, Pakistan**  
-*03/2024 – Present*
-
-- Contributed to the non-profit community powered by Google Developers.
-- Promoted innovation in technologies provided by Google.
-
----
-
-## 💻 Personal Projects
-
-### **Machine Learning Project: Machine Failure Prediction System**
-- **Data Processing:** pandas, scikit-learn
-- **Visualization:** seaborn, matplotlib
-- **Model Training & Evaluation:** scikit-learn, Modelling class (custom)
-- **GitHub Repository:** [Machine Failure Prediction System](https://github.com/farizfarooqui/Machine-Failure-Prediction)
-- **Live Demo:** [Deployed Application](https://predict-machine.streamlit.app/)
-
-### **Flutter Project: Chat Application**
-- Implemented user authentication using Firebase Authentication.
-- Utilized Cloud Firestore for real-time messaging capabilities.
-- Added Dark mode and Light mode themes.
-- **GitHub Repository:** [Chat Application](https://github.com/farizfarooqui/Flutter-Firebase-Chat-App)
-
-### **Flutter Project: News Application**
-- Developed a News App utilizing an open-source news API.
-- Added multiple categories for user selection.
-- Integrated in-app browser launcher for seamless news reading.
-- **GitHub Repository:** [News Application](https://github.com/farizfarooqui/Flutter-News-App)
+- ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ---
 
@@ -83,8 +51,6 @@ DHA SUFFA University, Karachi, Pakistan
 ---
 
 Feel free to explore my repositories and get in touch!
-
----
 **Contact Information:**
 - **Phone:** +923133017289
 - **Email:** [farizfarooqui104@gmail.com](mailto:farizfarooqui104@gmail.com)
