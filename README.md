@@ -1,11 +1,7 @@
-Here's the modified version of the profile, tailored to your details:
-
----
-
 <h1 align="center">Hi 👋, I'm Muhammad Fariz Farooqui</h1>
 <h3 align="center">A passionate mobile developer from Pakistan</h3>
 
-<p align="center"> <a href="https://twitter.com/zubair340" target="blank"><img src="https://img.shields.io/twitter/follow/zubair340?logo=twitter&style=for-the-badge" alt="fariz340" /></a> </p>
+<p align="center"> <a href="https://twitter.com/zubair340" target="blank"><img src="https://img.shields.io/twitter/follow/fariz?logo=twitter&style=for-the-badge" alt="fariz" /></a> </p>
 
 - 🔭 I’m currently working as a **Flutter Developer Intern at Plural Dynamics**
 
@@ -63,7 +59,3 @@ Here's the modified version of the profile, tailored to your details:
 <a href="https://www.linkedin.com/in/fariz-farooqui-97b48026b/" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin.png" alt="fariz-farooqui" height="40" width="40" /></a>
 <a href="https://github.com/farizfarooqui" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/github.png" alt="fariz-farooqui" height="40" width="40" /></a>
 </p>
-
----
-
-This version reflects your experiences, skills, and projects. Let me know if you need any further changes!
