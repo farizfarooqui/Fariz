@@ -1,58 +1,69 @@
-# Muhammad Fariz Farooqui
-
-**Flutter Developer | Machine Learning Enthusiast**
-
-
-## 🧑‍🎓 Education
-
-**Bachelor of Science in Computer Science**  
-DHA SUFFA University, Karachi, Pakistan  
-**CGPA:** 3.07 (Expected Graduation: June 2025)
-
-**Relevant Coursework:**
-- Programming Fundamentals
-- Object Oriented Programming (Java)
-- Data Structures
-- Algorithms Design and Analysis
-- Database Design
-- Artificial Intelligence
-- Machine Learning
-- Cloud Computing
+Here's the modified version of the profile, tailored to your details:
 
 ---
 
-## 🛠️ Tools & Technologies
+<h1 align="center">Hi 👋, I'm Muhammad Fariz Farooqui</h1>
+<h3 align="center">A passionate mobile developer from Pakistan</h3>
 
-- ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+<p align="center"> <a href="https://twitter.com/zubair340" target="blank"><img src="https://img.shields.io/twitter/follow/zubair340?logo=twitter&style=for-the-badge" alt="fariz340" /></a> </p>
+
+- 🔭 I’m currently working as a **Flutter Developer Intern at Plural Dynamics**
+
+- 🌱 I’m currently learning **Machine Learning & Cloud Computing**
+
+- 👯 I’m looking to collaborate on **Flutter and Machine Learning Projects**
+
+- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/farizfarooqui)
+
+- 📝 I occasionally write articles on technology topics
+
+- 💬 Ask me about **Flutter, Machine Learning, and APIs**
+
+- 📫 How to reach me: **farizfarooqui104@gmail.com**
+
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/fariz-farooqui-97b48026b/)
+
+- ⚡ Fun fact: **I enjoy solving complex coding challenges!**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://developer.android.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+  </a> 
+  <a href="https://dart.dev" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+  </a> 
+  <a href="https://firebase.google.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a> 
+  <a href="https://flutter.dev" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.sqlite.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.figma.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farizfarooqui&show_icons=true&locale=en" alt="farizfarooqui" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/fariz-farooqui-97b48026b/" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin.png" alt="fariz-farooqui" height="40" width="40" /></a>
+<a href="https://github.com/farizfarooqui" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/github.png" alt="fariz-farooqui" height="40" width="40" /></a>
+</p>
 
 ---
 
-## 🛠️ Skills
-
-- **Programming Languages:** C, Dart, Java, HTML, CSS, SQL
-- **Firebase:** Authentication, Realtime Database, Firestore
-- **APIs:** REST APIs
-- **Tools:** Figma, VS Code, GIT, GitHub, Postman, Firebase
-- **Microsoft Office:** MS Word, MS PowerPoint
-
----
-
-## 📜 Certifications
-
-- **Cambridge Assessment International Education (CAIE):** O-Level’s in Computer Science (Grade A)
-- **Flutter Essential Training:** Build for Multiple Platforms
-- **Dart Clean Code:** Writing High-Efficiency, Maintainable Dart Programs
-
----
-
-Feel free to explore my repositories and get in touch!
-**Contact Information:**
-- **Phone:** +923133017289
-- **Email:** [farizfarooqui104@gmail.com](mailto:farizfarooqui104@gmail.com)
-- **LinkedIn:** [linkedin.com/in/fariz-farooqui-97b48026b](https://www.linkedin.com/in/fariz-farooqui-97b48026b/)
-- **GitHub:** [github.com/farizfarooqui](https://github.com/farizfarooqui)
+This version reflects your experiences, skills, and projects. Let me know if you need any further changes!
