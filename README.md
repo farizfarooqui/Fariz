@@ -1,24 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fariz Farooqui</h1>
 <h3 align="center">A passionate mobile developer from Pakistan</h3>
 
-<p align="center"> <a href="https://www.linkedin.com/in/fariz-farooqui-97b48026b/" target="blank"><img src="https://img.shields.io/twitter/follow/fariz?logo=twitter&style=for-the-badge" alt="fariz" /></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/fariz-farooqui-97b48026b/" target="blank"><img src="https://img.icons8.com/fluent/96/000000/linkedin.png" alt="fariz" /></a> </p>
 
-- 🔭 I’m currently working as a **Flutter Developer Intern at Plural Dynamics**
-
+- 🔭 I’m currently working as a **Flutter Developer at Plural Dynamics**
 - 🌱 I’m currently learning **Machine Learning & Cloud Computing**
-
-- 👯 I’m looking to collaborate on **Flutter and Machine Learning Projects**
-
-- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/farizfarooqui)
-
-- 📝 I occasionally write articles on technology topics
-
-- 💬 Ask me about **Flutter, Machine Learning, and APIs**
-
 - 📫 How to reach me: **farizfarooqui104@gmail.com**
-
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/fariz-farooqui-97b48026b/)
-
 - ⚡ Fun fact: **I enjoy solving complex coding challenges!**
 
 <h3 align="left">Languages and Tools:</h3>
