@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fariz Farooqui</h1>
 <h3 align="center">A passionate mobile developer from Pakistan</h3>
 
-<p align="center"> <a href="https://www.linkedin.com/in/fariz-farooqui-97b48026b/" target="blank"><img src="https://img.icons8.com/fluent/96/000000/linkedin.png" alt="fariz" /></a> </p>
 
 - 🔭 I’m currently working as a **Flutter Developer at Plural Dynamics**
 - 🌱 I’m currently learning **Machine Learning & Cloud Computing**
