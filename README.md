@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fariz Farooqui</h1>
 <h3 align="center">A passionate mobile developer from Pakistan</h3>
 
-<p align="center"> <a href="https://twitter.com/zubair340" target="blank"><img src="https://img.shields.io/twitter/follow/fariz?logo=twitter&style=for-the-badge" alt="fariz" /></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/fariz-farooqui-97b48026b/" target="blank"><img src="https://img.shields.io/twitter/follow/fariz?logo=twitter&style=for-the-badge" alt="fariz" /></a> </p>
 
 - 🔭 I’m currently working as a **Flutter Developer Intern at Plural Dynamics**
 
