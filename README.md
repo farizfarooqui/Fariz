@@ -40,13 +40,8 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farizfarooqui&show_icons=true&locale=en" alt="farizfarooqui" /></p>
-//
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farizfarooqui" alt="farizfarooqui" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farizfarooqui" alt="farizfarooqui" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farizfarooqui&show_icons=true&locale=en&layout=compact" alt="farizfarooqui" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farizfarooqui" alt="farizfarooqui" /></p>
-
-//
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
