@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Machine Learning & Cloud Computing**
 - 📫 How to reach me: **farizfarooqui104@gmail.com**
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/fariz-farooqui-97b48026b/)
-- ⚡ Fun fact: **I enjoy solving complex coding challenges!**
+- ⚡ Fun fact: **I enjoy solving complex problems!**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
