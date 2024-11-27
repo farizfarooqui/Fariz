@@ -2,7 +2,7 @@
 <h3 align="center">A passionate mobile developer from Pakistan</h3>
 
 
-- 🔭 I’m currently working as a **Flutter Developer at Plural Dynamics**
+- 🔭 I’m currently working as a **Flutter Developer at VativeApps**
 - 🌱 I’m currently learning **Machine Learning & Cloud Computing**
 - 📫 How to reach me: **farizfarooqui104@gmail.com**
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/fariz-farooqui-97b48026b/)
